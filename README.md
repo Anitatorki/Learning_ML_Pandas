@@ -1,5 +1,5 @@
 # Machine Learning with Python_ Jadi - Course on Maktabkhoone
-
+**Course Link:** [Machine Learning with Python - Jadi](https://maktabkhooneh.org/course/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-mk1318/#)
 ## Overview
 
 This repository is organized into the following sections:
@@ -39,4 +39,5 @@ Contributions to improve the code examples, add new exercises, or suggest enhanc
 If you have any questions or feedback regarding this repository, feel free to contact me at [anita.trkh@gmail.com](mailto:anita.trkh@gmail.com).
 
 Happy learning!
+
 
